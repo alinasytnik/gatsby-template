@@ -14,7 +14,7 @@ Platform:
   darwin arm64
 
 Trace: 
-  Error: ENOSPC: no space left on device, copyfile '/Users/alinasytnik/Library/Caches/Yarn/v6/npm-babel-jsx-utils-1.1.0-304ce4fce0c86cbeee849551a45eb4ed1036381a-integrity/node_modules/babel-jsx-utils/dist/index.esm.js' -> '/Users/alinasytnik/Documents/github/alinasytnik/gatsby-template/node_modules/babel-jsx-utils/dist/index.esm.js'
+  Error: ENOSPC: no space left on device, copyfile '/Users/alinasytnik/Library/Caches/Yarn/v6/npm-semver-7.0.0-5f3ca35761e47e05b206c6daff2cf814f0316b8e-integrity/node_modules/semver/functions/cmp.js' -> '/Users/alinasytnik/Documents/github/alinasytnik/gatsby-template/node_modules/gatsby-legacy-polyfills/node_modules/semver/functions/cmp.js'
 
 npm manifest: 
   {

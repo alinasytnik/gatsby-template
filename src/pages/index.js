@@ -119,10 +119,10 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-       CONGRAAAATS!!!!! lol
+       CONGRAAAATS!!!!! 
         <br />
         <span style={headingAccentStyles}>
-          — you just made a Gatsby site! 🎉🎉🎉
+          — CONGRAAAATS! 🎉🎉🎉
         </span>
       </h1>
       <p style={paragraphStyles}>

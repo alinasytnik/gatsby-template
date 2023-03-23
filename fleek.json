@@ -2,5 +2,5 @@
   "id": "clflgan6d0000jo08ju06204y",
   "name": "021",
   "distDir": "public",
-  "buildCommand": "pnpm run build"
+  "buildCommand": "yarn run build"
 }

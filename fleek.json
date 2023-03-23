@@ -1,6 +1,6 @@
 {
-  "id": "clepxq3ms0000lc08cojivdx0",
-  "name": "gh-test",
+  "id": "clflgan6d0000jo08ju06204y",
+  "name": "021",
   "distDir": "public",
-  "buildCommand": "yarn build"
+  "buildCommand": "pnpm run build"
 }

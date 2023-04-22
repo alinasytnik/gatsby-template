@@ -122,7 +122,7 @@ const IndexPage = () => {
        CONGRAAAATS!!!!! 
         <br />
         <span style={headingAccentStyles}>
-          — HEYYYYYY 🎉🎉🎉
+          — HELLLOOOOOOO 🎉🎉🎉
         </span>
       </h1>
       <p style={paragraphStyles}>

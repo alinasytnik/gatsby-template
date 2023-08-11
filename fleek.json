@@ -1,6 +1,0 @@
-{
-  "id": "clgpezx7t0000jl09h8554ago",
-  "name": "030-test",
-  "distDir": "public",
-  "buildCommand": "yarn run build"
-}

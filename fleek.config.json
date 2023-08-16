@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "slug": "deafening-important-receptionist",
+      "slug": "silly-moldy-tiger",
       "distDir": "public",
       "buildCommand": "yarn run build"
     }

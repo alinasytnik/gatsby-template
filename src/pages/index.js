@@ -119,7 +119,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-       CONGRAAAATS!!!!! 
+       GA CHECK
         <br />
         <span style={headingAccentStyles}>
           — HELLLOOOOOOO 🎉🎉🎉

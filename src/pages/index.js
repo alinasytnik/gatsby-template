@@ -122,7 +122,7 @@ const IndexPage = () => {
        GA CHECK
         <br />
         <span style={headingAccentStyles}>
-          — HELLLOOOOOOO 🎉🎉🎉
+ LLLOOOL
         </span>
       </h1>
       <p style={paragraphStyles}>

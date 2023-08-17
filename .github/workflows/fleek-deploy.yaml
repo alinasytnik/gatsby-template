@@ -4,18 +4,18 @@ jobs:
   deploy-to-fleek:
     runs-on: ubuntu-latest
     env:
-      FLEEK_TOKEN: ${{ secrets.FLEEK_TOKEN }}
-      FLEEK_PROJECT_ID: ${{ secrets.FLEEK_PROJECT_ID }}
+      FLEEK_TOKEN: pat_I9XVDV7flKDCy3QTb2nk
+      FLEEK_PROJECT_ID: cllfjg9650011lc089cxajsy7
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 19.8.1
-      - name: Install Fleek CLI globally
+          node-version: 16
+      - name: Install Fleek CLI
         run: npm i -g @fleekxyz/cli
-      - name: Install dependencies
-        run: npm install
+      - name: Install Packages
+        run: yarn install
       - name: Build & deploy sites
         run: fleek sites deploy

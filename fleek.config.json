@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "slug": "silly-moldy-tiger",
+      "slug": "cagey-unkempt-parrot",
       "distDir": "public",
       "buildCommand": "yarn run build"
     }

@@ -115,11 +115,13 @@ const links = [
   },
 ];
 
+console.log({ gaId: process.env.GA_ID})
+
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-       GA CHECK
+       GTM {process.env.GA_ID}
         <br />
         <span style={headingAccentStyles}>
  LLLOOOL

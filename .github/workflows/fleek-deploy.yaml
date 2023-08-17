@@ -4,8 +4,8 @@ jobs:
   deploy-to-fleek:
     runs-on: ubuntu-latest
     env:
-      FLEEK_TOKEN:  pat_I9XVDV7flKDCy3QTb2nk
-      FLEEK_PROJECT_ID: cllfjg9650011lc089cxajsy7
+      FLEEK_TOKEN:  ${{ secrets.FLEEK_TOKEN }} 
+      FLEEK_PROJECT_ID: ${{ secrets.FLEEK_PROJECT_ID }} 
     steps:
       - name: Checkout
         uses: actions/checkout@v3

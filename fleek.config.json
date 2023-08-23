@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "slug": "cagey-unkempt-parrot",
+      "slug": "large-unimportant-balloon",
       "distDir": "public",
-      "buildCommand": "yarn run build"
+      "buildCommand": "yarn && yarn build"
     }
   ]
 }

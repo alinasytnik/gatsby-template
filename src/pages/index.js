@@ -79,7 +79,7 @@ const badgeStyle = {
 
 const links = [
   {
-    text: 'Tutorial',
+    text: 'Tutorial!!!!!!',
     url: 'https://www.gatsbyjs.com/docs/tutorial/',
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
@@ -124,7 +124,7 @@ const IndexPage = () => {
        GTM {process.env.GA_ID}
         <br />
         <span style={headingAccentStyles}>
- LLLOOOL
+ Test CI 2
         </span>
       </h1>
       <p style={paragraphStyles}>

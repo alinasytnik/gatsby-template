@@ -121,7 +121,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-       GTM {process.env.GA_ID}
+       CHANGES ARE HERE {process.env.GA_ID}
         <br />
         <span style={headingAccentStyles}>
  Test CI 2

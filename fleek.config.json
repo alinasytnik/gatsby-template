@@ -1,9 +1,0 @@
-{
-  "sites": [
-    {
-      "slug": "rapping-house-puny",
-      "distDir": "public",
-      "buildCommand": "yarn run build"
-    }
-  ]
-}

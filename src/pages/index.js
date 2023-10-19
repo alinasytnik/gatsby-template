@@ -121,7 +121,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-       IPNS FIX {process.env.GA_ID}
+       IPNS FIX!!!!!!! {process.env.GA_ID}
         <br />
         <span style={headingAccentStyles}>
  Test CI 2

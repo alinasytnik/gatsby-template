@@ -121,10 +121,10 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-      IPNS CHECK {process.env.GA_ID}
+      IPNS CHECK2 {process.env.GA_ID}
         <br />
         <span style={headingAccentStyles}>
-      IPNS CHECK
+      IPNS CHECK2
         </span>
       </h1>
       <p style={paragraphStyles}>
